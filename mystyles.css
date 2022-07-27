@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.header {
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 0;   
+    border-style: solid;
+    border-color: lightgray;
+}
+
+.rest { 
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    background-color: lightgray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-color: lightslategray;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    display: block;
+}
+
+.desc {
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    font-weight: semi-bold;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+}
+
+.splitter {
+    margin: 15px;
+}
