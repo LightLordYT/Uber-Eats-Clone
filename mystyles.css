@@ -40,3 +40,9 @@ body {
 .splitter {
     margin: 15px;
 }
+
+.restImg {
+    width: 75px;
+    height: 75px;
+    margin-left: 0px;
+}
