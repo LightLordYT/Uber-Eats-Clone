@@ -14,7 +14,9 @@ body {
     border-color: lightgray;
 }
 
+
 .rest { 
+    border-radius: 20px;
     text-align: center;
     font-size: 30px;
     font-weight: bold;
@@ -45,6 +47,9 @@ body {
     width: 75px;
     height: 75px;
     margin-left: 0px;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none;
 }
 
 .nav {
@@ -63,9 +68,18 @@ body {
     background-color: lightslategray;
     margin-top: 0;
     padding: 35px;
-    padding-left: 90px;
-    padding-right: 90px;
+    padding-left: 75px;
+    padding-right: 75px;
     margin: 10px;
-    margin-left: 65px;
-    margin-right: 65px;
+    margin-left: 35px;
+    margin-right: 35px;
+    border-radius: 5px;
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none;
+}
+
+.navItem:hover{
+    cursor: pointer;
+    background-color: gray;
 }

@@ -1,6 +1,6 @@
 const div = document.createElement('div')
 let navItem;
-const navEl = ['Menu', 'Admin Controls', 'Register', 'Search']
+const navEl = ['Menu', 'Admin Controls', 'Register', 'Search', 'Settings']
 const body = document.body
 div.id = 'nav'
 div.className = 'nav'
