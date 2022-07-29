@@ -3,7 +3,7 @@ const restaurantData = [
         name: "McDonald's",
         img: "https://cdn.cdnlogo.com/logos/m/12/mcdonalds.svg",
         description: "Fast Food, Fast Service",
-        rating: '4.5',
+        rating: '3.5',
     },
     {
         name: "Wendy's",
