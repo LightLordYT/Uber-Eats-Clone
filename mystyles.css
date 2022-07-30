@@ -31,6 +31,12 @@ body {
     display: block;
 }
 
+.rest:hover{
+    background-color: gray;
+    cursor: pointer;
+    transform: scale(1.08);
+}
+
 .desc {
     display: block;
     text-align: center;

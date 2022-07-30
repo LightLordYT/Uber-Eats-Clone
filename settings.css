@@ -1,0 +1,15 @@
+.header {
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    background-color: lightgray;
+    padding: 10px;
+    margin: 0;   
+    border-style: solid;
+    border-color: lightgray;
+}
+
+.settings {
+    
+}

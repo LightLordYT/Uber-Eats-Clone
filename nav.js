@@ -12,3 +12,14 @@ navEl.forEach((i) => {
     navItem.id = i
     div.append(navItem)
 })
+
+const menu = document.getElementById('Menu')
+const controls = document.getElementById('Admin Controls')
+const register = document.getElementById('Register')
+const search = document.getElementById('Search')
+const settings = document.getElementById('Settings')
+
+settings.addEventListener('click', () => location.href = 'settings.html')
+menu.addEventListener('click', () => location.href = 'index.html')
+controls.addEventListener('click', () => location.href = 'admincontrols.html')
+register.addEventListener('click', () => location.href ='register.html')

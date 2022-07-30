@@ -6,12 +6,6 @@ const restaurantData = [
         rating: '3.5',
     },
     {
-        name: "Wendy's",
-        img: "https://cdn.cdnlogo.com/logos/w/19/wendys.svg",
-        description: "Amazing Food",
-        rating: '3.5',
-    },
-    {
         name: "Ichiran Sushi",
         img: "https://cdn.cdnlogo.com/logos/s/10/sushiswap.svg",
         description: "Best Sushi Ever.",
